@@ -17,7 +17,7 @@ checking_sc() {
     echo -e "   \033[0;33mYour VPS${NC} $IP \033[0;33mHas been Banned${NC}"
     echo -e "     \033[0;33mBuy access permissions for scripts${NC}"
     echo -e "             \033[0;33mContact Admin :${NC}"
-    echo -e "      \033[0;36mWhatsapp${NC} wa.me/628981874211"
+    echo -e "      \033[0;36mWhatsapp${NC} wa.me/628388886316"
     echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
     exit
   fi
