@@ -1025,7 +1025,7 @@ secs_to_human "$(($(date +%s) - ${start}))"
 sudo hostnamectl set-hostname $username
 clear
 echo -e "${BIBlue}╭════════════════════════════════════════════════════╮${NC}"
-echo -e "${BIBlue}│${BGCOLOR} SUCCESS INSTALL AUTOSCRIPT PREMIUM BY VPN EXPRESS${NC} ${BIBlue}│${NC}"
+echo -e "${BIBlue}│${BGCOLOR} SUCCESS INSTALL AUTOSCRIPT PREMIUM BY DENISA STORE${NC} ${BIBlue}│${NC}"
 echo -e "${BIBlue}╰════════════════════════════════════════════════════╯${NC}"
 echo -e ""
 echo -e "\033[93;1m please Wait in 5 second...\033[0m"
